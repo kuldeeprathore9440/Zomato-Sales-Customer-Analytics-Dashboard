@@ -1,0 +1,13 @@
+This project focuses on building an interactive Zomato Sales Analytics Dashboard using Excel to analyze food delivery data and generate meaningful business insights.
+The goal was to understand sales performance, customer behavior, and regional trends through a structured and visual approach.
+
+The dataset was cleaned and organized in Excel, followed by the use of Pivot Tables and charts to create a dynamic dashboard.
+Key performance indicators (KPIs) such as Total Sales, Total Orders, Average Order Value, Average Rating,
+and Ratings Count were tracked to measure overall performance.
+
+The dashboard provides multiple analytical views, including monthly, weekly, and daily sales trends to identify fluctuations and peak periods.
+It also compares sales contribution by food type (Veg vs Non-Veg), highlights top-performing cities, and visualizes state-wise revenue distribution using a map.
+Additionally, a quarterly performance summary combines sales, orders, and ratings for better business understanding.
+
+Through this project, raw data was transformed into clear, actionable insights, demonstrating how Excel can be effectively used for data analysis and visualization.
+It also strengthened skills in data cleaning, KPI analysis, and dashboard design, while reinforcing the importance of data-driven decision-making.
